@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1096px" height="850px" viewBox="0 0 1096 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>bg</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="Rectangle-1" opacity="0.150085" fill="#FFFFFF" sketch:type="MSShapeGroup" x="50" y="800" width="206" height="50"></rect>
+        <rect id="Rectangle-1" opacity="0.150085" fill="#FFFFFF" sketch:type="MSShapeGroup" x="260" y="750" width="206" height="100"></rect>
+        <rect id="Rectangle-1" opacity="0.150085" fill="#FFFFFF" sketch:type="MSShapeGroup" x="470" y="650" width="206" height="200"></rect>
+        <rect id="Rectangle-1" opacity="0.150085" fill="#FFFFFF" sketch:type="MSShapeGroup" x="680" y="450" width="206" height="400"></rect>
+        <rect id="Rectangle-1" opacity="0.150085" fill="#FFFFFF" sketch:type="MSShapeGroup" x="890" y="50" width="206" height="800"></rect>
+        <g id="Group" sketch:type="MSLayerGroup" fill="#FFFFFF" opacity="0.1">
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="0" y="750" width="206" height="50"></rect>
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="210" y="700" width="206" height="100"></rect>
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="420" y="600" width="206" height="200"></rect>
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="630" y="400" width="206" height="400"></rect>
+            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="840" y="0" width="206" height="800"></rect>
+        </g>
+    </g>
+</svg>

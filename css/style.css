@@ -1,0 +1,213 @@
+body {
+	color: #212121;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	padding-top: 50px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #0071BC;
+}
+a, a:visited {
+	color: #0071BC;
+}
+
+/* Navbar */
+
+.navbar img {
+  margin-top: 5px;
+  max-height: 35px;
+}
+.navbar-inverse, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	background-color: #0071BC;
+	border-color: #0071BC;
+}
+.navbar-inverse .navbar-toggle {
+	border-color: #ffffff;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+	color: #ffffff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	background: #0D7DC1;
+}
+
+/* Buttons */
+
+.btn-outline-inverse {
+    color: #fff;
+    background-color: #0071BC;
+    border-color: #dce4ef;
+    border: 3px solid #dce4ef;
+}
+.btn-outline-inverse:hover {
+    background-color: #205493;
+    color: #fff;
+    border: 3px solid #dce4ef;
+}
+a.btn {
+  color: #fff;
+}
+
+/* Share masthead with page headers */
+
+.bs-docs-masthead,
+.bs-docs-header {
+  position: relative;
+  padding: 30px 0;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  background-color: #0071bc;
+  background-image: url('../img/bg.png');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.bs-docs-masthead a, .bs-docs-masthead a:visited {
+	color: #ffffff;
+  text-decoration: underline;
+}
+
+/* Masthead (headings and download button) */
+
+.bs-docs-masthead .bs-docs-booticon {
+  margin: 0 auto 30px;
+}
+.bs-docs-masthead h1 {
+  font-weight: 300;
+  line-height: 1;
+  color: #fff;
+}
+.bs-docs-masthead hr {
+	color: #53B0EB;
+	border-top: 1px solid #53B0EB;
+}
+.bs-docs-masthead .lead {
+  margin: 0 auto 30px;
+  font-size: 20px;
+  color: #fff;
+}
+.bs-docs-masthead .version {
+  margin-top: -15px;
+  margin-bottom: 30px;
+  color: #9783b9;
+}
+.bs-docs-masthead .btn {
+  width: 100%;
+  padding: 15px 30px;
+  font-size: 20px;
+}
+
+@media (min-width: 480px) {
+  .bs-docs-masthead .btn {
+    width: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .bs-docs-masthead {
+    padding: 80px 0;
+  }
+  .bs-docs-masthead h1 {
+    font-size: 60px;
+  }
+  .bs-docs-masthead .lead {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 992px) {
+  .bs-docs-masthead .lead {
+    width: 80%;
+    font-size: 30px;
+  }
+}
+
+/*
+ * Page headers
+ *
+ * Jumbotron-esque headers at the top of every page that's not the homepage.
+ */
+
+/* Page headers */
+.bs-docs-header {
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.bs-docs-header h1 {
+  margin-top: 0;
+  color: #fff;
+}
+.bs-docs-header p {
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 1.4;
+}
+.bs-docs-header .container {
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .bs-docs-header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 24px;
+    text-align: left;
+  }
+  .bs-docs-header h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+}
+
+@media (min-width: 992px) {
+  .bs-docs-header h1,
+  .bs-docs-header p {
+    margin-right: 380px;
+  }
+}
+
+/* Sessions */
+
+.sessions .fa {
+	color: #0071BC;
+	font-size: 120px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+/* Supporters */
+
+.supporters img {
+	margin: 20px 0;
+}
+
+/* People */
+
+.people img {
+	border-radius: 50%;
+	max-width: 150px;
+}
+
+/* Connect */
+
+.connect .fa {
+	font-size: 50px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+/* Footer */
+
+.footer {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.footer a, .footer a:visited, .footer {
+	color: #aeb0b5;
+}
