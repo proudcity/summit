@@ -20,7 +20,7 @@ a, a:visited {
 	color: #0071BC;
 }
 hr {
-  border-top: 10px solid #f1f1f1;
+  border-top: 10px solid #dce4ef;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -236,7 +236,7 @@ a.btn {
 /* Sections */
 
 .section-second {
-  background: #f1f1f1;
+  background: #dce4ef;
   margin-bottom: 20px;
   margin-top: 20px;
   padding-bottom: 20px;
