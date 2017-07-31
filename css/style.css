@@ -65,21 +65,22 @@ p, li {
 
 .btn-outline-inverse {
     color: #fff;
-    background-color: #0071BC;
+    background-color: #205493;
     border-color: #dce4ef;
     border: 3px solid #dce4ef;
   font-weight: 900;
 }
 .btn-outline-inverse:hover {
-    background-color: #205493;
+    background-color: #0071BC;
     color: #fff;
     border: 3px solid #dce4ef;
 }
-a.btn {
+a.btn, a.btn:visited {
   color: #fff;
   margin-bottom: 10px;
   margin-top: 10px;
   padding: 20px;
+  text-decoration: none !important;
 }
 
 /* Share masthead with page headers */
