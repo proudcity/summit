@@ -27,6 +27,16 @@ hr {
 p, li {
   font-size: 115%;
 }
+
+/* Forms */
+
+input[type=text] {
+    padding: 5px; 
+    border: 1px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
 /* Navbar */
 
 .navbar img {
@@ -63,7 +73,7 @@ p, li {
 
 /* Buttons */
 
-.btn-outline-inverse {
+.btn-outline-inverse, input[type=submit] {
     color: #fff;
     background-color: #205493;
     border-color: #dce4ef;
