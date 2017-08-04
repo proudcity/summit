@@ -232,6 +232,19 @@ a.btn, a.btn:visited {
 
 /* Connect */
 
+.video {
+  background: #212121;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+.video h2, .video p {
+  color: #fff;
+}
+
+/* Connect */
+
 .connect .fa {
 	font-size: 50px;
   margin-bottom: 20px;
