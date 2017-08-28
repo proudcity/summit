@@ -47,6 +47,9 @@ p, li {
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
 	background: #0D7DC1;
 }
+.navbar a.btn, a.btn:visited {
+  margin-bottom: 0;
+}
 
 /* Navbar pills */
 
@@ -65,16 +68,16 @@ p, li {
 /* Buttons */
 
 .btn-outline-inverse {
-    color: #fff;
-    background-color: #205493;
-    border-color: #dce4ef;
-    border: 3px solid #dce4ef;
+  color: #fff;
+  background-color: #205493;
+  border-color: #dce4ef;
+  border: 3px solid #dce4ef;
   font-weight: 900;
 }
 .btn-outline-inverse:hover {
-    background-color: #0071BC;
-    color: #fff;
-    border: 3px solid #dce4ef;
+  background-color: #0071BC;
+  color: #fff;
+  border: 3px solid #dce4ef;
 }
 a.btn, a.btn:visited {
   color: #fff;
@@ -255,7 +258,7 @@ a.btn, a.btn:visited {
 
 .footer {
   background: #0071BC;
-	padding-bottom: 40px;
+	padding-bottom: 120px;
 	padding-top: 40px;
 }
 .footer a, .footer a:visited, .footer {
